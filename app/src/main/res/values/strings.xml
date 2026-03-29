@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Courses App</string>
+    <string-array name="categories">
+        <item>programming Coureses</item>
+        <item>Languages Coureses</item>
+        <item>Medical Coureses</item>
+
+    </string-array>
+
+    <string-array name="lang">
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+
+    </string-array>
+</resources>

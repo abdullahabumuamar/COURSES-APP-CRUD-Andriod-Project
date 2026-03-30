@@ -1,6 +1,6 @@
 # Courses App (Android - Kotlin)
 
-A simple Android app to browse and manage courses. Built with Kotlin, AndroidX, and Material Components. ViewBinding is enabled.
+A simple Android app to browse and manage courses. Built with Kotlin, AndroidX, and Material Components. ViewBinding is enabled, Using SQLite DB.
 
 ## What it does
 
